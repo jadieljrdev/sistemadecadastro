@@ -12,3 +12,5 @@ git clone
 git log --oneline
 
 git pull https://github.com/jadieljrdev/sistemadecadastro.git
+
+git status
