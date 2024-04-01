@@ -15,7 +15,7 @@ visualiza todos os commits, um em cada linha com comando:
 
 git log --oneline
 
-git log -p
+  
 
 informações pelo autor
 
@@ -38,4 +38,6 @@ git commit -a -m "o -m utiliza para comentar ocommit e -a para adicionar todos o
 git push
 
 git restore --source código.
+
+
 
